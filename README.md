@@ -1,4 +1,4 @@
-# todoapp_flutter_sqlite
+# todoapp_flutter_sqflite
 
 A new Flutter project.
 
